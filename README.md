@@ -1,7 +1,5 @@
 # Team Calendar Extension 
 
-[![Join the chat at https://gitter.im/Guadzilah/vso-team-calendar](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Guadzilah/vso-team-calendar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 Team Calendar is an extension for Visual Studio Online that demonstrates one type of experience **you** can now develop and install into your Visual Studio Online account. Eventually you will be able to share your extensions with other users.
 To learn more about Extensions, see the [overview of extensions](https://www.visualstudio.com/en-us/integrate/extensions/overview).
 
